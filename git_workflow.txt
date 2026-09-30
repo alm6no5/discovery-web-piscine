@@ -1,0 +1,11 @@
+Working Directory:
+The place where files are created and modified.
+
+Staging Area:
+A temporary area where changes are prepared before committing.
+
+Repository:
+The place where Git stores committed versions of the project.
+
+Workflow:
+Edit -> git add -> git commit -> git push
