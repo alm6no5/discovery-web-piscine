@@ -1,11 +1,16 @@
-Working Directory:
-The place where files are created and modified.
+Complete Git Workflow
 
-Staging Area:
-A temporary area where changes are prepared before committing.
+1. Edit
+Update the project files and save the changes.
 
-Repository:
-The place where Git stores committed versions of the project.
+2. Add
+git add README.md git_workflow.txt
 
-Workflow:
+3. Commit
+git commit -m "Complete ex03 documentation"
+
+4. Push
+git push origin main
+
+The cycle is:
 Edit -> git add -> git commit -> git push
